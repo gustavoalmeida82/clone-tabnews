@@ -1,5 +1,9 @@
 function Home() {
-  return <h1>Gustavo de Almeida</h1>
+  return <h1>Gustavo de Almeida</h1>;
 }
 
-export default Home
+function teste2() {
+  console.log('identação errada')
+}
+
+export default Home;
